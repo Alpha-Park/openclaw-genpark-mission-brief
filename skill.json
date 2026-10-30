@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-mission-brief",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Mission Brief - Critical Path Method DAG solver and swarm failure surface auditor with OKR vector alignment.",
+  "tools": [
+    "solve_critical_path_method",
+    "align_okr_objective_vector",
+    "calculate_swarm_risk_surface"
+  ]
+}
